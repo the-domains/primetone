@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3835126
+  lightness: 0.8566308
+  brandStrength: 1
+  brandColors:
+    - '#201F1E'
+    - '#DFE2DF'
+    - '#424143'
+    - '#9AA3AB'
+    - '#A3785C'
+  rhythmicContrast: 0.7562724
+typography_spectrum: 0.9623656
+name: Primetone
