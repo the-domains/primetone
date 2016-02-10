@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Primetone]]></title>
         <description><![CDATA[Primetone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/primetone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 11:49:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 23:52:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/primetone/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c81660-eb08-4542-bbbe-a82010ecbcfb.jpg">]]></description>
-            <link>undefined640de4fe-19e5-45a1-b762-e71faf30e416/index.html</link>
+            <link>https://thegrid.ai/primetone/640de4fe-19e5-45a1-b762-e71faf30e416/index.html</link>
             <guid isPermaLink="false">640de4fe-19e5-45a1-b762-e71faf30e416</guid>
-            <pubDate>Fri, 05 Feb 2016 11:48:54 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 23:50:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
