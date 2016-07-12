@@ -1,29 +1,41 @@
-name: Primetone
-favicon: null
-layout_spectrum: 0.57355
-typography_spectrum: 0.43648
 title: Best Agency Ever
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3102867
+  brandStrength: 0.4375
+  lightness: 0.8254638
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#545a75'
     - '#cdbfbd'
     - '#c76d5a'
-  brandStrength: 0.4375
-  lightness: 0.5
-  saturation: 0.6875
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.1382799
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Primetone
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7116358
+layout_spectrum: 1
